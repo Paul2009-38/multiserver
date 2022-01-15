@@ -1,4 +1,4 @@
-module github.com/HimbeerserverDE/multiserver
+module github.com/HimbeerserverDE/Paul2009-38
 
 go 1.16
 
